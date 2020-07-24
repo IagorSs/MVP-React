@@ -1,0 +1,8 @@
+#tarefa{
+    display: flex;
+    align-items: center;
+}
+
+#tarefa h3{
+    margin: 10px 25px 10px 0px;
+}

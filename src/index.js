@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import Controller from './components/scripts/Controller';
 import * as serviceWorker from './serviceWorker';
+import './components/css/Generic.css'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <div id="genericBackground">
+        <h1>List of things to do</h1>
+        <Controller/>
+      </div>
   </React.StrictMode>,
   document.getElementById('root')
 );

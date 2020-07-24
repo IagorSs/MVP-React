@@ -1,0 +1,16 @@
+#genericBackground {
+    height: 100vh;
+    width: 100vw;
+    background-position: 0px 0px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-image: linear-gradient(to right, #444444, #7e7e7e);
+}
+
+h1 {
+    color: rgb(196, 196, 196);
+}
