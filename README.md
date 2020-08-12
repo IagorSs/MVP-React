@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## List of things to do
+
+This is a sample minimum viable product (MVP) for learning about **React**. It's a project that do one list of things based on task that you provides for app.
+
 ## Available Scripts
 
 In the project directory, you can run:
