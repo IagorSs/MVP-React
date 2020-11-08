@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-content: space-between; align-itens: center;">
+<h1 style="display: flex; justify-content: space-between; align-itens: center; width=100%;">
 REACT MVP <img src="https://img.shields.io/github/license/IagorSs/MVP-React" alt="MIT LICENSE" style="width: auto; height: 80%;">
 </h1>
 
