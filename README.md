@@ -1,4 +1,6 @@
-# REACT MVP &nbsp; &nbsp; &nbsp; &nbsp; ![MIT LICENSE](https://img.shields.io/github/license/IagorSs/MVP-React)
+<h1 style="display: flex; justify-content: space-between; align-itens: center;">
+REACT MVP <img src="https://img.shields.io/github/license/IagorSs/MVP-React" alt="MIT LICENSE" style="width: auto; height: 80%;">
+</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
